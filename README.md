@@ -2,7 +2,7 @@
 I'm Isaac D. Tucker-Rasbury
 <br>a Data Professional, Progressive Economic and Political Commentator, and Aspiring Writer</h3>
 
-Thanks for visiting ![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+Thanks for visiting! 
 
 Being fairly junior in my career as a data professional, **the majority of my work here to date (March 2022) reflects my early focus on building fundamentals skills and competency with data analytics tools and technologies.** Those skills helped me find my first job in  strategic finance on a Financial Planning and Analysis (FP&A) team at Blend (May 2021) and land my first ever Data Analyst role, again on an FP&A team, at Slalom Consulting (October 2021). As of early 2022, I am also working as a FinTech Tutor for Trilogy Education.
 
