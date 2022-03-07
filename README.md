@@ -10,7 +10,7 @@ Professionally, I aspire to bring my technical expertise and passion in analytic
 
 <!-- BLOG-POST-LIST:START -->
 - [Personal and Professional Website](www.irasbury.squarespace.com)
-- [Medium Blog ]()
+- Medium Blog - First Article to be Published by End of Q1 2022
 - [LinkedIn](https://www.linkedin.com/in/tuckerrasbury/)
 - [Pocket Politics Podcast by VotingSmarter](https://open.spotify.com/show/5nVS8055RpPGlE4LpqTsbZ)
 <!-- BLOG-POST-LIST:END -->
