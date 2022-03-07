@@ -19,4 +19,4 @@ Professionally, I aspire to bring my technical expertise and passion in analytic
 - [Pocket Politics Podcast by VotingSmarter](https://open.spotify.com/show/5nVS8055RpPGlE4LpqTsbZ)
 <!-- BLOG-POST-LIST:END -->
 
-_Modeled after: [Stephen Ajulu](https://github.com/stephenajulu/stephenajulu.git)_
+_Modeled after: [Stephen Ajulu](https://github.com/stephenajulu/stephenajulu.git) and [Gappur Kayssm](https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readme-a474d5b45645)
