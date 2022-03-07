@@ -4,7 +4,7 @@ I'm Isaac D. Tucker-Rasbury
 
 Thanks for visiting!
 
-Being fairly junior in my career as a data professional, **the majority of my work here to date (March 2022) reflects my early focus on building fundamentals skills and competency with data analytics tools and technologies.** Those skills helped me find my first job in  strategic finance on a Financial Planning and Analysis (FP&A) team at Blend (May 2021) and land my first ever Data Analyst role, again on an FP&A team, at Slalom Consulting (October 2021). As of early 2022, I am also working as a FinTech Tutor for Trilogy Education.
+Being fairly junior in my career as a data professional, **the majority of my work here to date (March 2022) reflects my early focus on building fundamental skills and competency with data analytics/science tools and technologies.** Those skills helped me find my first job in  strategic finance on a Financial Planning and Analysis (FP&A) team at Blend (May 2021) and land my first ever Data Analyst role, again on an FP&A team, at Slalom Consulting (October 2021). As of early 2022, I am also working as a FinTech Tutor for Trilogy Education.
 
 Professionally, I aspire to bring my technical expertise and passion in analytics to issues related to the common good, economic and political wellbeing, and strategic initiaitves in the non-profit and private sectors!
 
