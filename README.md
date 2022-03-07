@@ -8,6 +8,8 @@ Being fairly junior in my career as a data professional, **the majority of my wo
 
 Professionally, I aspire to bring my technical expertise and passion in analytics to issues related to the common good, economic and political wellbeing, and strategic initiaitves in the non-profit and private sectors!
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TuckerRasbury&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 <h4>📕 My Latest Work and Links </h4>
 
 <!-- BLOG-POST-LIST:START -->
