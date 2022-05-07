@@ -1,6 +1,6 @@
 <h3>Hi, and welcome to my GitHub repository!👋🏾<br> 
 I'm Isaac D. Tucker-Rasbury
-<br>a Data Professional, Progressive Economic and Political Commentator, and Aspiring Writer</h3>
+<br>a Data Analyst, Progressive Economic and Political Commentator, and Aspiring Writer</h3>
 
 Thanks for visiting!
 
