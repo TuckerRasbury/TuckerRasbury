@@ -1,6 +1,6 @@
 # Hi, and welcome to my GitHub repository!👋🏾
 
-I'm Isaac D. Tucker-Rasbury, a Data Analyst, Data Fellow @ Bluebonnet Data, and  FinTech Tutor @ Trilogy Education.
+I'm **Isaac D. Tucker-Rasbury**, a Data Analyst, Data Fellow @ Bluebonnet Data, and  FinTech Tutor @ Trilogy Education.
 
 Thanks for visiting!
 
