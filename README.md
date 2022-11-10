@@ -1,19 +1,21 @@
 # Hi, and welcome to my GitHub repository!👋🏾
 
-I'm **Isaac D. Tucker-Rasbury**, a Data Analyst, Data Fellow @ Bluebonnet Data, and  FinTech Tutor @ Trilogy Education.
+I'm **Isaac D. Tucker-Rasbury**, a Data Analyst @ Slalom Consulting, Data Fellow @ Bluebonnet Data, and finally aFinTech Tutor @ Trilogy Education.
 
-Thanks for visiting!
+Thanks for visiting my portfolio for technical audiences here on Github!
 
 ### ✨ About Me ✨
 
-- The majority of my work here to date (March 2022) reflects my early focus on building fundamental skills and competency with data analytics/science tools and technologies. Those skills helped me find my first job in  strategic finance on a Financial Planning and Analysis (FP&A) team at Blend (May 2021) and land my first ever Data Analyst role, again on an FP&A team, at Slalom Consulting (October 2021). 
-- As of early 2022, I am also working as a FinTech Tutor for Trilogy Education and as of late 2022 I am a data fellow for a progressive volunteer organization!
 - Professionally, I aspire to bring my technical expertise and passion in analytics to issues related to the common good, economic and political wellbeing, and strategic initiaitves in the non-profit and private sectors!
 
+#### More Information
+- My work here up to March 2022 reflects my early focus on building fundamental skills and competency with data analytics/science tools and technologies. These projects were largely undertaken during a bootcamp.
+- Numbered projects denote projects I took on of my own violition that I refer to interchangeably as "personal projects" and "portfolio projects".
+
 ### 💡 Core Competencies 💡
-- Coding: Python, SQL, Excel, Power BI, VS Code, Git/Github, Google Colab, R, Snowflake, Alteryx, Lucid Charts
-- Industries: Finance, Financial Planning and Analysis (FP&A), Finance, FinTech, Software as a Service (SaaS), Operations
-- Project Management: Jira, Revenue Forecasting, Process Modeling
+- **Coding**: Python, SQL, Excel, Power BI, VS Code, Git/Github, Google Colab, R, Snowflake, Alteryx, Lucid Charts
+- **Industry Experience**: Finance, Financial Planning and Analysis (FP&A), FinTech, Software as a Service (SaaS), Operations
+- **Themes**: Jira, Revenue Forecasting, Process Modeling
 
 ### 📕 How to Connect With Me and Find My Work
 - [Personal and Professional Website](www.irasbury.squarespace.com)
