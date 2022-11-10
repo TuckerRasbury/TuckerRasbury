@@ -6,7 +6,7 @@ Thanks for visiting my portfolio for technical audiences here on Github!
 
 ### ✨ About Me ✨
 
-- Professionally, I aspire to bring my technical expertise and passion in analytics to issues related to the common good, economic and political wellbeing, and strategic initiaitves in the non-profit and private sectors!
+- Professionally, I aspire to bring my technical expertise and passion in analytics to issues related to the common good, economic and political wellbeing, and strategic initiaitves in the non-profit, public, and private sectors!
 
 #### More Information
 - My work here up to March 2022 reflects my early focus on building fundamental skills and competency with data analytics/science tools and technologies. These projects were largely undertaken during a bootcamp.
