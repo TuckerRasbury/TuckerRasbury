@@ -9,8 +9,8 @@ Thanks for visiting my portfolio for technical audiences here on Github!
 Professionally, I aspire to bring my technical expertise and passion in analytics to issues related to the common good, economic and political wellbeing, and strategic initiaitves in the non-profit, public, and private sectors!
 
 #### Ongoing Portfolio Projects
-- [Maternal Mortality and Abortion Care Restrictions w/ Public Data]()
-- [Practicing SQL w/ DataLemur]()
+- [Maternal Mortality and Abortion Care Restrictions w/ Public Data](https://github.com/TuckerRasbury/00_MaternalMortalityandAbortionRelatedStatistics)
+- [Practicing SQL w/ DataLemur](https://github.com/TuckerRasbury/01_SQLPractice_Datalemur_ITR)
 - [Reverse Engineering Job Descriptions to Practice Analytics Skills]()
 
 ### ℹ️  Details Below  ℹ️
