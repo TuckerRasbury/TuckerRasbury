@@ -13,9 +13,9 @@ Thanks for visiting my portfolio for technical audiences here on Github!
 - Numbered projects denote projects I took on of my own violition that I refer to interchangeably as "personal projects" and "portfolio projects".
 
 ### 💡 Core Competencies 💡
-- **Coding**: Python, SQL, Excel, Power BI, VS Code, Git/Github, Google Colab, R, Snowflake, Alteryx, Lucid Charts
+- **Coding**: Python, SQL, Excel, Power BI, VS Code, Git/Github, Google Colab, R, Snowflake, Alteryx, Lucid Charts, Jira
 - **Industry Experience**: Finance, Financial Planning and Analysis (FP&A), FinTech, Software as a Service (SaaS), Operations
-- **Themes**: Jira, Revenue Forecasting, Process Modeling
+- **Themes**: Revenue Forecasting, Process Modeling
 
 ### 📕 How to Connect With Me and Find My Work
 - [Personal and Professional Website](www.irasbury.squarespace.com)
