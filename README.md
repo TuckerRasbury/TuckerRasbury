@@ -11,7 +11,7 @@ Professionally, I aspire to bring my technical expertise and passion in analytic
 #### Ongoing Portfolio Projects
 - [Maternal Mortality and Abortion Care Restrictions w/ Public Data](https://github.com/TuckerRasbury/00_MaternalMortalityandAbortionRelatedStatistics)
 - [Practicing SQL w/ DataLemur](https://github.com/TuckerRasbury/01_SQLPractice_Datalemur_ITR)
-- [Reverse Engineering Job Descriptions to Practice Analytics Skills]()
+- [Reverse Engineering Job Descriptions to Practice Analytics Skills](https://github.com/TuckerRasbury/04_ReverseEngineeringJobDescriptions)
 
 ### ℹ️  Details Below  ℹ️
 
