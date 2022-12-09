@@ -21,8 +21,9 @@ Professionally, I aspire to bring my technical expertise and passion in analytic
 - **Themes**: Revenue Forecasting, Process Modeling
 
 #### 📕 How to Connect With Me and Find My Work 📕
-- [Personal and Professional Website](www.irasbury.squarespace.com)
 - [LinkedIn](https://www.linkedin.com/in/tuckerrasbury/)
+- [Medium - Data Analytics Blog](https://medium.com/@tuckerrasburyisaac)
+- [Personal and Professional Website](www.irasbury.squarespace.com)
 - [Pocket Politics Podcast by VotingSmarter](https://open.spotify.com/show/5nVS8055RpPGlE4LpqTsbZ)
 
 #### _Footnote_
