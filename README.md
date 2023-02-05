@@ -1,6 +1,6 @@
 # Hi, and welcome to my GitHub repository!👋🏾
 
-I'm **Isaac D. Tucker-Rasbury**, a Data Analyst @ Slalom Consulting, Data Fellow @ Bluebonnet Data, and finally aFinTech Tutor @ Trilogy Education.
+I'm **Isaac D. Tucker-Rasbury**, a Data Analyst @ Slalom Consulting, a part time FinTech Tutor @ edX, and a Data Fellow @ Bluebonnet Data.
 
 Thanks for visiting my portfolio for technical audiences here on Github!
 
