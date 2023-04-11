@@ -36,6 +36,7 @@ I am passionate about using data analytics to solve complex, novel, and time sen
 Read on 👇🏾
 
 Accomplishments
+
 ✅ Managing strategic growth oriented data products and reports for executives and leaders in +40 markets in the U.S. and internationally
 
 ✅ Tutored 40 junior analytics professionals across 6 time zones in 84 1-on-1 virtual tutorials
