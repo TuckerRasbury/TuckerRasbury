@@ -1,6 +1,6 @@
 # Hi, and welcome to my GitHub repository!👋🏾
 
-I'm **Isaac D. Tucker-Rasbury**, a Compensation Analyst @ Netflix, a data fellow at Bluebonnet Data, and a data analytics content creator!
+I'm **Isaac D. Tucker-Rasbury**, a Senior Data Analyst at BlueLabs, a data fellow at Bluebonnet Data, and a data analytics content creator!
 
 Thanks for visiting my portfolio for technical audiences here on Github!
 
